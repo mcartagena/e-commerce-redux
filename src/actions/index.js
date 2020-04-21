@@ -8,6 +8,7 @@ const receiveProducts = products => ({
 
 export const getAllProducts = () => dispatch => {
   shop.getProducts(products => {
+    console.log('**** shop getProducts ****', JSON.stringify(products));
     dispatch(receiveProducts(products))
   })
 }
