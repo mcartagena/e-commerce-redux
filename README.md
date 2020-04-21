@@ -1,5 +1,5 @@
 # e-commerce-redux
-This is an application that sirves like example for ES6, React and Redux
+This is an application that sirves like example for ES6, React and Redux.  Based in the course of Digital : ReactJS.
 
 Let's make our hands dirty with React and Redux.
 
